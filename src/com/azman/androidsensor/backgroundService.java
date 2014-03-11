@@ -3,8 +3,7 @@
  */
 package com.azman.androidsensor;
 
-//feature 1 p1
-//feature 1 p2
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
