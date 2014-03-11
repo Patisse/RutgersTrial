@@ -4,7 +4,7 @@
 package com.azman.androidsensor;
 
 
-
+///bug fix 1
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
